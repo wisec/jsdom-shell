@@ -1,0 +1,16 @@
+{
+  "name": "jsdom-shell",
+  "version": "0.9.0",
+  "description": "Jsdom REPL and environment test via sandboxed shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Stefano Di Paola",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^9.12.0",
+    "ws": "^3.0.0"
+  }
+}
